@@ -1,0 +1,6064 @@
+[
+    {
+        "batch_size": 4,
+        "throughput": 3.2957266112402928,
+        "avg_latency": 1.2136929035186768,
+        "gpu_utilization": 94,
+        "memory_used": 70879
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3054815081013498,
+        "avg_latency": 1.210111141204834,
+        "gpu_utilization": 94,
+        "memory_used": 70879
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1005798750802303,
+        "avg_latency": 1.290081262588501,
+        "gpu_utilization": 93,
+        "memory_used": 71001
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.254138610903949,
+        "avg_latency": 1.2292039394378662,
+        "gpu_utilization": 94,
+        "memory_used": 71001
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3036882801409675,
+        "avg_latency": 1.2107679843902588,
+        "gpu_utilization": 94,
+        "memory_used": 71001
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2986574713619974,
+        "avg_latency": 1.2126145362854004,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.203218566018254,
+        "avg_latency": 1.248744010925293,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2081996680358276,
+        "avg_latency": 1.246805191040039,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.304764634332511,
+        "avg_latency": 1.2103736400604248,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2296515035867976,
+        "avg_latency": 1.2385237216949463,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3057022975290797,
+        "avg_latency": 1.2100303173065186,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2793914878828074,
+        "avg_latency": 1.219738483428955,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.285119307997558,
+        "avg_latency": 1.2176117897033691,
+        "gpu_utilization": 92,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2277439654931928,
+        "avg_latency": 1.239255666732788,
+        "gpu_utilization": 92,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.305234050584383,
+        "avg_latency": 1.2102017402648926,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.309203696745377,
+        "avg_latency": 1.2087500095367432,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.311814678155846,
+        "avg_latency": 1.2077970504760742,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3044873442541323,
+        "avg_latency": 1.210475206375122,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2311996943139936,
+        "avg_latency": 1.2379302978515625,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.313653391616962,
+        "avg_latency": 1.2071268558502197,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3113930626448607,
+        "avg_latency": 1.2079508304595947,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3110787184670043,
+        "avg_latency": 1.2080655097961426,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.310266013553428,
+        "avg_latency": 1.208362102508545,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3098552398395933,
+        "avg_latency": 1.2085120677947998,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.30938973248277,
+        "avg_latency": 1.2086820602416992,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.305219074081699,
+        "avg_latency": 1.210207223892212,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.199072534513004,
+        "avg_latency": 1.2503623962402344,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2764198840993837,
+        "avg_latency": 1.2208447456359863,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1853578331415724,
+        "avg_latency": 1.2557458877563477,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3061237680773297,
+        "avg_latency": 1.2098760604858398,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300131673106073,
+        "avg_latency": 1.2120728492736816,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2842858625030096,
+        "avg_latency": 1.2179207801818848,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3039647854705407,
+        "avg_latency": 1.2106666564941406,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.294410942872347,
+        "avg_latency": 1.2141776084899902,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2961675595432225,
+        "avg_latency": 1.2135305404663086,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.248305005659339,
+        "avg_latency": 1.2314114570617676,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.218967971134228,
+        "avg_latency": 1.2426342964172363,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.302439053196201,
+        "avg_latency": 1.211225986480713,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.22704737526152,
+        "avg_latency": 1.23952317237854,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.28130089378458,
+        "avg_latency": 1.2190287113189697,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2981639860541967,
+        "avg_latency": 1.2127959728240967,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3088277725744173,
+        "avg_latency": 1.2088873386383057,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2814850890627048,
+        "avg_latency": 1.2189602851867676,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.277580986094343,
+        "avg_latency": 1.220412254333496,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3001245325113255,
+        "avg_latency": 1.2120754718780518,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.244547800719218,
+        "avg_latency": 1.232837438583374,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2049741505934484,
+        "avg_latency": 1.2480599880218506,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1307604214426616,
+        "avg_latency": 1.2776448726654053,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2841887833193466,
+        "avg_latency": 1.217956781387329,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.285933869302326,
+        "avg_latency": 1.2173099517822266,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2623507173404045,
+        "avg_latency": 1.2261097431182861,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.284311579804592,
+        "avg_latency": 1.2179112434387207,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.227794265731952,
+        "avg_latency": 1.2392363548278809,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.254120306830287,
+        "avg_latency": 1.2292108535766602,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2988377827187723,
+        "avg_latency": 1.2125482559204102,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2988883772163535,
+        "avg_latency": 1.2125296592712402,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.307900727582888,
+        "avg_latency": 1.209226131439209,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2983552670381044,
+        "avg_latency": 1.2127256393432617,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.306166116500014,
+        "avg_latency": 1.2098605632781982,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.293241120366737,
+        "avg_latency": 1.214608907699585,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300741983551786,
+        "avg_latency": 1.2118487358093262,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3008335495888916,
+        "avg_latency": 1.2118151187896729,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2975163890960277,
+        "avg_latency": 1.2130341529846191,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3034079184682876,
+        "avg_latency": 1.2108707427978516,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1987675646818814,
+        "avg_latency": 1.2504816055297852,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.224068842793837,
+        "avg_latency": 1.2406682968139648,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2939174338206376,
+        "avg_latency": 1.2143595218658447,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.277836487748763,
+        "avg_latency": 1.2203171253204346,
+        "gpu_utilization": 94,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.297112661067982,
+        "avg_latency": 1.2131826877593994,
+        "gpu_utilization": 93,
+        "memory_used": 71003
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.0236736341648913,
+        "avg_latency": 1.3228940963745117,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.176989176371852,
+        "avg_latency": 1.2590537071228027,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.294416118062562,
+        "avg_latency": 1.2141757011413574,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.17574614498305,
+        "avg_latency": 1.2595465183258057,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300819262354992,
+        "avg_latency": 1.211820363998413,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2778313645172337,
+        "avg_latency": 1.2203190326690674,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.303671366023053,
+        "avg_latency": 1.2107741832733154,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3020315193617167,
+        "avg_latency": 1.2113754749298096,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3051155445795777,
+        "avg_latency": 1.210245132446289,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1927046581640615,
+        "avg_latency": 1.2528562545776367,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.248255950832063,
+        "avg_latency": 1.2314300537109375,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2797915286012826,
+        "avg_latency": 1.2195897102355957,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.125504811803328,
+        "avg_latency": 1.2797932624816895,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.19484596116266,
+        "avg_latency": 1.252016544342041,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.0909978265463494,
+        "avg_latency": 1.2940804958343506,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3006497732443254,
+        "avg_latency": 1.2118825912475586,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2975170372140754,
+        "avg_latency": 1.21303391456604,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3071228283549066,
+        "avg_latency": 1.2095105648040771,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.306193480673196,
+        "avg_latency": 1.209850549697876,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1469897462013674,
+        "avg_latency": 1.2710559368133545,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2993502859190333,
+        "avg_latency": 1.21235990524292,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2715533740713867,
+        "avg_latency": 1.222660779953003,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.304334398984034,
+        "avg_latency": 1.210531234741211,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.303493127771294,
+        "avg_latency": 1.2108395099639893,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3059341907462225,
+        "avg_latency": 1.2099454402923584,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3060038953474167,
+        "avg_latency": 1.2099199295043945,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.175455823556177,
+        "avg_latency": 1.2596616744995117,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.292441670153283,
+        "avg_latency": 1.2149038314819336,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.203226516577539,
+        "avg_latency": 1.2487409114837646,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2988319449919925,
+        "avg_latency": 1.212550401687622,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.304417052754771,
+        "avg_latency": 1.210500955581665,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.244987084626402,
+        "avg_latency": 1.232670545578003,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.291251938688593,
+        "avg_latency": 1.2153429985046387,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.278842232007397,
+        "avg_latency": 1.2199428081512451,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2561267747913782,
+        "avg_latency": 1.2284533977508545,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2948508920943844,
+        "avg_latency": 1.2140154838562012,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.275581253459406,
+        "avg_latency": 1.2211573123931885,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1858108768870945,
+        "avg_latency": 1.2555673122406006,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.301631882919426,
+        "avg_latency": 1.211522102355957,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.281331698523488,
+        "avg_latency": 1.2190172672271729,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.166390678169228,
+        "avg_latency": 1.263267993927002,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.303493127771294,
+        "avg_latency": 1.2108395099639893,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.301433725117316,
+        "avg_latency": 1.211594820022583,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2960257439144542,
+        "avg_latency": 1.2135827541351318,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1980224630689107,
+        "avg_latency": 1.2507729530334473,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2913339392642236,
+        "avg_latency": 1.2153127193450928,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.276405807426294,
+        "avg_latency": 1.2208499908447266,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2693634751890523,
+        "avg_latency": 1.2234797477722168,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.172013884306646,
+        "avg_latency": 1.261028528213501,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2473317330118756,
+        "avg_latency": 1.2317805290222168,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1560686617158207,
+        "avg_latency": 1.267399549484253,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2723299461633855,
+        "avg_latency": 1.2223706245422363,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2446519630017354,
+        "avg_latency": 1.2327978610992432,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.302546315662041,
+        "avg_latency": 1.2111866474151611,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1206672863155376,
+        "avg_latency": 1.2817771434783936,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.290281801153594,
+        "avg_latency": 1.2157013416290283,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2702001994802288,
+        "avg_latency": 1.2231667041778564,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2493071803980422,
+        "avg_latency": 1.2310316562652588,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.296293844004416,
+        "avg_latency": 1.2134840488433838,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2699579960913816,
+        "avg_latency": 1.223257303237915,
+        "gpu_utilization": 93,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.082759553363007,
+        "avg_latency": 1.2975387573242188,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.0974749543840514,
+        "avg_latency": 1.2913744449615479,
+        "gpu_utilization": 94,
+        "memory_used": 71083
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.018516942573351,
+        "avg_latency": 1.3251540660858154,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.279345335617919,
+        "avg_latency": 1.2197556495666504,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.245434021158402,
+        "avg_latency": 1.2325007915496826,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2968761729138887,
+        "avg_latency": 1.2132697105407715,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.297269474658598,
+        "avg_latency": 1.2131249904632568,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2917911512252185,
+        "avg_latency": 1.2151439189910889,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2879746184248457,
+        "avg_latency": 1.2165544033050537,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2799851731016916,
+        "avg_latency": 1.219517707824707,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.289759854740256,
+        "avg_latency": 1.2158942222595215,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.269902549310049,
+        "avg_latency": 1.2232780456542969,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2776552631702334,
+        "avg_latency": 1.2203845977783203,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3015285780152945,
+        "avg_latency": 1.2115600109100342,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.276220902360032,
+        "avg_latency": 1.220918893814087,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.299594916364596,
+        "avg_latency": 1.2122700214385986,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2917000861713097,
+        "avg_latency": 1.2151775360107422,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2934854922231986,
+        "avg_latency": 1.2145187854766846,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2999862707232417,
+        "avg_latency": 1.2121262550354004,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.299319790767176,
+        "avg_latency": 1.2123711109161377,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2959907775526607,
+        "avg_latency": 1.2135956287384033,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3060266965559,
+        "avg_latency": 1.209911584854126,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.161315061492882,
+        "avg_latency": 1.265296220779419,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2999784816714586,
+        "avg_latency": 1.2121291160583496,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2691532462349784,
+        "avg_latency": 1.2235584259033203,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2853116521613126,
+        "avg_latency": 1.2175405025482178,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2971087733172078,
+        "avg_latency": 1.213184118270874,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.27533633407571,
+        "avg_latency": 1.2212486267089844,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2987113032642017,
+        "avg_latency": 1.212594747543335,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2949861353906256,
+        "avg_latency": 1.213965654373169,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.301717650392808,
+        "avg_latency": 1.2114906311035156,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2931241191688487,
+        "avg_latency": 1.2146520614624023,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.263651690737336,
+        "avg_latency": 1.225620985031128,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1838949406004478,
+        "avg_latency": 1.2563228607177734,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2247449328217224,
+        "avg_latency": 1.240408182144165,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2381852730766223,
+        "avg_latency": 1.235259771347046,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.298092666620142,
+        "avg_latency": 1.2128221988677979,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3017527383708045,
+        "avg_latency": 1.2114777565002441,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.291802131040174,
+        "avg_latency": 1.2151398658752441,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2967595611084453,
+        "avg_latency": 1.2133126258850098,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.27674560090311,
+        "avg_latency": 1.2207233905792236,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1610642985775863,
+        "avg_latency": 1.2653965950012207,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300514713924975,
+        "avg_latency": 1.2119321823120117,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2507394818802235,
+        "avg_latency": 1.2304892539978027,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300719255180658,
+        "avg_latency": 1.2118570804595947,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3005608146616434,
+        "avg_latency": 1.2119152545928955,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300948501380411,
+        "avg_latency": 1.2117729187011719,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3036830757785474,
+        "avg_latency": 1.2107698917388916,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3095091980367686,
+        "avg_latency": 1.2086384296417236,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.308312321012393,
+        "avg_latency": 1.209075689315796,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2832202345680654,
+        "avg_latency": 1.2183160781860352,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.31256862429574,
+        "avg_latency": 1.2075221538543701,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3053141446198664,
+        "avg_latency": 1.210172414779663,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2825091296483433,
+        "avg_latency": 1.2185800075531006,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2895934344662288,
+        "avg_latency": 1.2159557342529297,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2713517936046745,
+        "avg_latency": 1.222736120223999,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2438307684514305,
+        "avg_latency": 1.233109951019287,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.290354073783235,
+        "avg_latency": 1.215674638748169,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2950890312676884,
+        "avg_latency": 1.2139277458190918,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.241520606585668,
+        "avg_latency": 1.2339887619018555,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.187942333892614,
+        "avg_latency": 1.254727840423584,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2446180781518,
+        "avg_latency": 1.2328107357025146,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2480440258500476,
+        "avg_latency": 1.2315104007720947,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.243479582213812,
+        "avg_latency": 1.233243465423584,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2884263856313867,
+        "avg_latency": 1.2163872718811035,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2692252306813336,
+        "avg_latency": 1.2235314846038818,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2967744610461156,
+        "avg_latency": 1.2133071422576904,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3025300633254004,
+        "avg_latency": 1.2111926078796387,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2799960742997425,
+        "avg_latency": 1.2195136547088623,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.295234002401717,
+        "avg_latency": 1.213874340057373,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2979623545304184,
+        "avg_latency": 1.2128701210021973,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2939652906091292,
+        "avg_latency": 1.2143418788909912,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.291652940995276,
+        "avg_latency": 1.2151949405670166,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.290465715424372,
+        "avg_latency": 1.2156333923339844,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2374485598296023,
+        "avg_latency": 1.2355408668518066,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2681585292638333,
+        "avg_latency": 1.223930835723877,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2698464671222602,
+        "avg_latency": 1.2232990264892578,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3041866738039487,
+        "avg_latency": 1.210585355758667,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3014980425834044,
+        "avg_latency": 1.211571216583252,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.288186630656551,
+        "avg_latency": 1.2164759635925293,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.298420761558332,
+        "avg_latency": 1.2127015590667725,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.293992453188782,
+        "avg_latency": 1.214331865310669,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3059374479051105,
+        "avg_latency": 1.209944248199463,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2989311891572606,
+        "avg_latency": 1.2125139236450195,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.300840693252222,
+        "avg_latency": 1.2118124961853027,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2708575162858415,
+        "avg_latency": 1.2229208946228027,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.270698741468795,
+        "avg_latency": 1.222980260848999,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2137600872877954,
+        "avg_latency": 1.2446479797363281,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2944057676983913,
+        "avg_latency": 1.214179515838623,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.271393893801669,
+        "avg_latency": 1.2227203845977783,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.167521737373783,
+        "avg_latency": 1.2628169059753418,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2967498438303506,
+        "avg_latency": 1.2133162021636963,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.116373707409767,
+        "avg_latency": 1.2835431098937988,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2976570366833826,
+        "avg_latency": 1.212982416152954,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.273703409060531,
+        "avg_latency": 1.2218577861785889,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2436407421707116,
+        "avg_latency": 1.2331821918487549,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2918796376997284,
+        "avg_latency": 1.215111255645752,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.288943395693788,
+        "avg_latency": 1.216196060180664,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1107687914753015,
+        "avg_latency": 1.285855770111084,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1661863128605483,
+        "avg_latency": 1.2633495330810547,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3000466371212998,
+        "avg_latency": 1.212104082107544,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2727231585341543,
+        "avg_latency": 1.2222237586975098,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1867809083566776,
+        "avg_latency": 1.2551851272583008,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2748798458403883,
+        "avg_latency": 1.221418857574463,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.28936640760405,
+        "avg_latency": 1.2160396575927734,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.269276832102377,
+        "avg_latency": 1.2235121726989746,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1359299827644764,
+        "avg_latency": 1.275538682937622,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.290375369002894,
+        "avg_latency": 1.2156667709350586,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2477076438713834,
+        "avg_latency": 1.231637954711914,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3030190035827363,
+        "avg_latency": 1.2110133171081543,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3061941322066497,
+        "avg_latency": 1.2098503112792969,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2813971605141345,
+        "avg_latency": 1.2189929485321045,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.020478207720241,
+        "avg_latency": 1.324293613433838,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.1931999059772043,
+        "avg_latency": 1.252661943435669,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.2954773754847295,
+        "avg_latency": 1.2137846946716309,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.312063122052604,
+        "avg_latency": 1.2077064514160156,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.246847828779509,
+        "avg_latency": 1.231964111328125,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.192733821876025,
+        "avg_latency": 1.2528448104858398,
+        "gpu_utilization": 93,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.306119207542671,
+        "avg_latency": 1.2098777294158936,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.283209954434478,
+        "avg_latency": 1.2183198928833008,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 4,
+        "throughput": 3.3043988295208595,
+        "avg_latency": 1.2105076313018799,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": "final",
+        "throughput": 3.2629309603870063,
+        "avg_latency": 0.30647292637825013,
+        "gpu_utilization": 94,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.395285457936302,
+        "avg_latency": 1.2509214878082275,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.8621051594386815,
+        "avg_latency": 1.3646974563598633,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.376512297536844,
+        "avg_latency": 1.2546043395996094,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.015433689544585,
+        "avg_latency": 1.3299124240875244,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.223312286293162,
+        "avg_latency": 1.2854890823364258,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.357093787997801,
+        "avg_latency": 1.258436679840088,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.207086946564687,
+        "avg_latency": 1.2888493537902832,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.421232315716794,
+        "avg_latency": 1.2458667755126953,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3964277762358055,
+        "avg_latency": 1.2506980895996094,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.225166535995633,
+        "avg_latency": 1.2851061820983887,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.400937637349221,
+        "avg_latency": 1.24981689453125,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.395807191978678,
+        "avg_latency": 1.250819444656372,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.383813016844572,
+        "avg_latency": 1.2531695365905762,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.118661184000583,
+        "avg_latency": 1.3074755668640137,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.164424925017058,
+        "avg_latency": 1.2977690696716309,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.315127465915049,
+        "avg_latency": 1.2667994499206543,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.355607917416422,
+        "avg_latency": 1.2587308883666992,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.271557523893721,
+        "avg_latency": 1.2756001949310303,
+        "gpu_utilization": 91,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.2161170498629765,
+        "avg_latency": 1.2869770526885986,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.207290188467657,
+        "avg_latency": 1.2888071537017822,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.398414699421969,
+        "avg_latency": 1.250309705734253,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.284927923927016,
+        "avg_latency": 1.2728865146636963,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.246401486875354,
+        "avg_latency": 1.2807374000549316,
+        "gpu_utilization": 92,
+        "memory_used": 71165
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.857172980755401,
+        "avg_latency": 1.3658466339111328,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.287615445890457,
+        "avg_latency": 1.2723424434661865,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.284813737481199,
+        "avg_latency": 1.2729096412658691,
+        "gpu_utilization": 91,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.144150003662199,
+        "avg_latency": 1.3020515441894531,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3769994621602155,
+        "avg_latency": 1.2545084953308105,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3961217363357905,
+        "avg_latency": 1.2507579326629639,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.368330102773739,
+        "avg_latency": 1.256216287612915,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.38869310696801,
+        "avg_latency": 1.2522122859954834,
+        "gpu_utilization": 91,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.371831073641802,
+        "avg_latency": 1.255526065826416,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.033713122338908,
+        "avg_latency": 1.325883388519287,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.360291848604485,
+        "avg_latency": 1.2578039169311523,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.842078230677811,
+        "avg_latency": 1.3693757057189941,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.091138627440196,
+        "avg_latency": 1.3133833408355713,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.1198440968175545,
+        "avg_latency": 1.307222843170166,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.359922955588013,
+        "avg_latency": 1.2578768730163574,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.417371241122056,
+        "avg_latency": 1.2466163635253906,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.086185693566654,
+        "avg_latency": 1.3144521713256836,
+        "gpu_utilization": 92,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.9623333365910085,
+        "avg_latency": 1.3417565822601318,
+        "gpu_utilization": 91,
+        "memory_used": 71249
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.761878505502597,
+        "avg_latency": 1.3884360790252686,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.357268429427821,
+        "avg_latency": 1.2584021091461182,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.387317661884267,
+        "avg_latency": 1.2524819374084473,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.079401902103213,
+        "avg_latency": 1.3159189224243164,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.313354659806873,
+        "avg_latency": 1.2671551704406738,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.403401465049775,
+        "avg_latency": 1.2493360042572021,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.132374165408219,
+        "avg_latency": 1.3045518398284912,
+        "gpu_utilization": 91,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.189583578132387,
+        "avg_latency": 1.2924940586090088,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.402993342720605,
+        "avg_latency": 1.249415636062622,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.278666748250486,
+        "avg_latency": 1.274155855178833,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.31642799809045,
+        "avg_latency": 1.2665386199951172,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.326627302833276,
+        "avg_latency": 1.2644968032836914,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.1892913026211644,
+        "avg_latency": 1.2925550937652588,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.078530765893349,
+        "avg_latency": 1.3161075115203857,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.379111369325908,
+        "avg_latency": 1.2540931701660156,
+        "gpu_utilization": 91,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.184647143826123,
+        "avg_latency": 1.2935256958007812,
+        "gpu_utilization": 91,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.325966519601873,
+        "avg_latency": 1.2646288871765137,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.33457297415546,
+        "avg_latency": 1.4996514320373535,
+        "gpu_utilization": 42,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.007459724452467,
+        "avg_latency": 1.3316776752471924,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.287456391802764,
+        "avg_latency": 1.2723746299743652,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.053676297205447,
+        "avg_latency": 1.3215110301971436,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.366884883140875,
+        "avg_latency": 1.2565014362335205,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.268968036222563,
+        "avg_latency": 1.2761270999908447,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.944874989856956,
+        "avg_latency": 1.3456969261169434,
+        "gpu_utilization": 92,
+        "memory_used": 71343
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.515025844057313,
+        "avg_latency": 1.450582504272461,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.278578635219166,
+        "avg_latency": 1.2741737365722656,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.403193731614718,
+        "avg_latency": 1.2493765354156494,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.373103017716786,
+        "avg_latency": 1.2552754878997803,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.316282939629581,
+        "avg_latency": 1.2665677070617676,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.321678363837918,
+        "avg_latency": 1.265486717224121,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.385874750236798,
+        "avg_latency": 1.2527649402618408,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.371441483523787,
+        "avg_latency": 1.2556028366088867,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.367991698222493,
+        "avg_latency": 1.2562830448150635,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3739516661835385,
+        "avg_latency": 1.25510835647583,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.085571971834868,
+        "avg_latency": 1.314584732055664,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3643343908808765,
+        "avg_latency": 1.257004976272583,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.369563166425997,
+        "avg_latency": 1.2559731006622314,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3759743216137315,
+        "avg_latency": 1.2547101974487305,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.411576076343282,
+        "avg_latency": 1.2477431297302246,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.330708370241865,
+        "avg_latency": 1.2636816501617432,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.05980627073697,
+        "avg_latency": 1.320174217224121,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.288832770630551,
+        "avg_latency": 1.2720961570739746,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.425726782013176,
+        "avg_latency": 1.244995355606079,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.374684276329526,
+        "avg_latency": 1.2549641132354736,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.138559072579834,
+        "avg_latency": 1.3032374382019043,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.283128498566213,
+        "avg_latency": 1.2732510566711426,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.398382977019396,
+        "avg_latency": 1.2503159046173096,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.411071365383565,
+        "avg_latency": 1.2478413581848145,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.374956777612361,
+        "avg_latency": 1.2549104690551758,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.4090998342831424,
+        "avg_latency": 1.248225212097168,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.314162517683906,
+        "avg_latency": 1.2669930458068848,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.230687327657441,
+        "avg_latency": 1.2839674949645996,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3794121449484775,
+        "avg_latency": 1.2540340423583984,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.112888219606425,
+        "avg_latency": 1.3087103366851807,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.226216535723093,
+        "avg_latency": 1.2848894596099854,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.278907603155094,
+        "avg_latency": 1.2741069793701172,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.359908490067154,
+        "avg_latency": 1.2578797340393066,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.369120659248839,
+        "avg_latency": 1.2560603618621826,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.3694821564160975,
+        "avg_latency": 1.2559890747070312,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.369155719050086,
+        "avg_latency": 1.2560534477233887,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.260814011026533,
+        "avg_latency": 1.2777891159057617,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.266181747557586,
+        "avg_latency": 1.2766945362091064,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.398280491406938,
+        "avg_latency": 1.250335931777954,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.369042078337792,
+        "avg_latency": 1.2560758590698242,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.404466004889274,
+        "avg_latency": 1.2491283416748047,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.386488546189435,
+        "avg_latency": 1.2526445388793945,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.310017310294312,
+        "avg_latency": 1.2678253650665283,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.192154736548006,
+        "avg_latency": 1.2919573783874512,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.057441147682031,
+        "avg_latency": 1.3206896781921387,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.039899471907107,
+        "avg_latency": 1.3245253562927246,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.383723142439246,
+        "avg_latency": 1.2531871795654297,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.285902797747116,
+        "avg_latency": 1.2726891040802002,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.999242997322956,
+        "avg_latency": 1.3335015773773193,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.1367526838574245,
+        "avg_latency": 1.3036210536956787,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.14088682824735,
+        "avg_latency": 1.3027434349060059,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.367143427765238,
+        "avg_latency": 1.2564504146575928,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.012045077752978,
+        "avg_latency": 1.3306620121002197,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.289622575019382,
+        "avg_latency": 1.2719364166259766,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.416333080538342,
+        "avg_latency": 1.2468180656433105,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 5.814431331885145,
+        "avg_latency": 1.3758869171142578,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.178025520805044,
+        "avg_latency": 1.2949120998382568,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.251370648558779,
+        "avg_latency": 1.279719352722168,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.170149321796157,
+        "avg_latency": 1.296565055847168,
+        "gpu_utilization": 92,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 8,
+        "throughput": 6.369659897495241,
+        "avg_latency": 1.2559540271759033,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": "final",
+        "throughput": 6.239242029581563,
+        "avg_latency": 0.16027587890625,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.63104395514885,
+        "avg_latency": 1.3903300762176514,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.953459367870533,
+        "avg_latency": 1.340264081954956,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.650515327307216,
+        "avg_latency": 1.3872005939483643,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.945056085602433,
+        "avg_latency": 1.3415231704711914,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.97836379716876,
+        "avg_latency": 1.3365464210510254,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.22322196744509,
+        "avg_latency": 1.3010637760162354,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.917388320145196,
+        "avg_latency": 1.3456854820251465,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.228418711899412,
+        "avg_latency": 1.3003311157226562,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.875440715654863,
+        "avg_latency": 1.3520455360412598,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.763907742562328,
+        "avg_latency": 1.3692522048950195,
+        "gpu_utilization": 89,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.130523940309772,
+        "avg_latency": 1.3142728805541992,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.996038512436755,
+        "avg_latency": 1.3339204788208008,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.777403068938638,
+        "avg_latency": 1.3671469688415527,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.148904866683571,
+        "avg_latency": 1.3116323947906494,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.070393173261364,
+        "avg_latency": 1.3229856491088867,
+        "gpu_utilization": 89,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.256029919542021,
+        "avg_latency": 1.4534831047058105,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.967981452405507,
+        "avg_latency": 1.3380937576293945,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.757794277396009,
+        "avg_latency": 1.3702080249786377,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.219672337748788,
+        "avg_latency": 1.3015646934509277,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.20673033303383,
+        "avg_latency": 1.3033943176269531,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.208920192947366,
+        "avg_latency": 1.303084373474121,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.698807474542173,
+        "avg_latency": 1.3794994354248047,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.155376920692621,
+        "avg_latency": 1.3107051849365234,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.137045804263977,
+        "avg_latency": 1.4747366905212402,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.722005194907819,
+        "avg_latency": 1.3758304119110107,
+        "gpu_utilization": 89,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.262203607227706,
+        "avg_latency": 1.2955880165100098,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.68445705630874,
+        "avg_latency": 1.3817789554595947,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 7.967111927055113,
+        "avg_latency": 1.5061919689178467,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.147155705735477,
+        "avg_latency": 1.3118832111358643,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.79103982561719,
+        "avg_latency": 1.3650262355804443,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.145892469413688,
+        "avg_latency": 1.3120644092559814,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.901303813499297,
+        "avg_latency": 1.3481171131134033,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.89522045568618,
+        "avg_latency": 1.349039077758789,
+        "gpu_utilization": 91,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.057605782281218,
+        "avg_latency": 1.3248534202575684,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.12320050173241,
+        "avg_latency": 1.3153278827667236,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.84606919955098,
+        "avg_latency": 1.356534719467163,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.72290006046732,
+        "avg_latency": 1.3756892681121826,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.890354413776013,
+        "avg_latency": 1.3497774600982666,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.066445702180703,
+        "avg_latency": 1.323561668395996,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.336905292345305,
+        "avg_latency": 1.4393830299377441,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.082495520254945,
+        "avg_latency": 1.3212227821350098,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.620908435521638,
+        "avg_latency": 1.3919646739959717,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.988436316879778,
+        "avg_latency": 1.3350486755371094,
+        "gpu_utilization": 90,
+        "memory_used": 71485
+    },
+    {
+        "batch_size": 12,
+        "throughput": 7.472511692769123,
+        "avg_latency": 1.6058857440948486,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.07554344641178,
+        "avg_latency": 1.322234869003296,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.158727209700327,
+        "avg_latency": 1.3102257251739502,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.09177496778333,
+        "avg_latency": 1.3198742866516113,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.146022101284744,
+        "avg_latency": 1.3120458126068115,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.213842755077607,
+        "avg_latency": 1.3023881912231445,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.157830671378195,
+        "avg_latency": 1.3103539943695068,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.765192822703701,
+        "avg_latency": 1.369051456451416,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.133584231010234,
+        "avg_latency": 1.3138325214385986,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.199018535424566,
+        "avg_latency": 1.3044869899749756,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.119377126894161,
+        "avg_latency": 1.3158793449401855,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.52153543119115,
+        "avg_latency": 1.4081969261169434,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.257709416398981,
+        "avg_latency": 1.2962169647216797,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.753942101691283,
+        "avg_latency": 1.3708109855651855,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.084070837188928,
+        "avg_latency": 1.3209936618804932,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.208814044948445,
+        "avg_latency": 1.3030993938446045,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.209599261060443,
+        "avg_latency": 1.3029882907867432,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.211357215095077,
+        "avg_latency": 1.3027396202087402,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.956679421167964,
+        "avg_latency": 1.3397822380065918,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.084224955803164,
+        "avg_latency": 1.3209712505340576,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.726877782110538,
+        "avg_latency": 1.3750622272491455,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.980282920500068,
+        "avg_latency": 1.3362607955932617,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.207538775402682,
+        "avg_latency": 1.3032798767089844,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.214166614797104,
+        "avg_latency": 1.302342414855957,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.979070157013515,
+        "avg_latency": 1.3364412784576416,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 7.94333759184134,
+        "avg_latency": 1.510699987411499,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.21115829496849,
+        "avg_latency": 1.3027677536010742,
+        "gpu_utilization": 91,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.260249001101515,
+        "avg_latency": 1.2958614826202393,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.150005917403949,
+        "avg_latency": 1.3114745616912842,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.89937266162627,
+        "avg_latency": 1.348409652709961,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.405131086861589,
+        "avg_latency": 1.427699327468872,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.029466887806313,
+        "avg_latency": 1.3289821147918701,
+        "gpu_utilization": 91,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.653051007489552,
+        "avg_latency": 1.386794090270996,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.769203107119809,
+        "avg_latency": 1.3684253692626953,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.794099532388676,
+        "avg_latency": 1.364551305770874,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.664216734318677,
+        "avg_latency": 1.3850069046020508,
+        "gpu_utilization": 91,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.111342462480076,
+        "avg_latency": 1.3170397281646729,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.180306050123985,
+        "avg_latency": 1.466937780380249,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 9.054992028341754,
+        "avg_latency": 1.3252358436584473,
+        "gpu_utilization": 91,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 8.795086096582715,
+        "avg_latency": 1.3643982410430908,
+        "gpu_utilization": 90,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 12,
+        "throughput": 3.3066808994481973,
+        "avg_latency": 1.209672212600708,
+        "gpu_utilization": 94,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": "final",
+        "throughput": 8.829197194953906,
+        "avg_latency": 0.11326058053970336,
+        "gpu_utilization": 94,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.100794304969504,
+        "avg_latency": 1.441338300704956,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.245325511686891,
+        "avg_latency": 1.4228134155273438,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.67783118244262,
+        "avg_latency": 1.370117425918579,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.735404553924669,
+        "avg_latency": 1.3633956909179688,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.694098396935193,
+        "avg_latency": 1.3682115077972412,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 12.069027879188981,
+        "avg_latency": 1.3257074356079102,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.528945857532046,
+        "avg_latency": 1.3878111839294434,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.466974690552188,
+        "avg_latency": 1.3953113555908203,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.769852777011446,
+        "avg_latency": 1.359405279159546,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.363771122223143,
+        "avg_latency": 1.4079833030700684,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.77482145780407,
+        "avg_latency": 1.3588316440582275,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.78158478644598,
+        "avg_latency": 1.4840118885040283,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.569568227645236,
+        "avg_latency": 1.3829383850097656,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.414176643964357,
+        "avg_latency": 1.4017655849456787,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.920400714134857,
+        "avg_latency": 1.3422367572784424,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.84517314702684,
+        "avg_latency": 1.3507611751556396,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.233607585751239,
+        "avg_latency": 1.424297571182251,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.587948593227352,
+        "avg_latency": 1.5111520290374756,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.4268932082478,
+        "avg_latency": 1.4002056121826172,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.533285029401696,
+        "avg_latency": 1.387289047241211,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.299809808666781,
+        "avg_latency": 1.553426742553711,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.986202149265482,
+        "avg_latency": 1.3348681926727295,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.341460813668526,
+        "avg_latency": 1.4107530117034912,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.531558876297494,
+        "avg_latency": 1.3874967098236084,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.653887403933249,
+        "avg_latency": 1.3729324340820312,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.70768362236385,
+        "avg_latency": 1.366623878479004,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.55622782909374,
+        "avg_latency": 1.3845348358154297,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.359993120579118,
+        "avg_latency": 1.4084515571594238,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.478874562051542,
+        "avg_latency": 1.3938648700714111,
+        "gpu_utilization": 89,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.872036667783428,
+        "avg_latency": 1.471665382385254,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.154146060123045,
+        "avg_latency": 1.4344441890716553,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.738937425384067,
+        "avg_latency": 1.362985372543335,
+        "gpu_utilization": 88,
+        "memory_used": 71689
+    },
+    {
+        "batch_size": 16,
+        "throughput": 9.745442864613308,
+        "avg_latency": 1.6417930126190186,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.806217131461137,
+        "avg_latency": 1.3552181720733643,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.822525578029285,
+        "avg_latency": 1.353348731994629,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.859063660623232,
+        "avg_latency": 1.3491790294647217,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.927892527353658,
+        "avg_latency": 1.3413937091827393,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.43979999529513,
+        "avg_latency": 1.3986258506774902,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.859082521597113,
+        "avg_latency": 1.3491768836975098,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.91856309885755,
+        "avg_latency": 1.3424437046051025,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.247310094309059,
+        "avg_latency": 1.4225623607635498,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.84612451650895,
+        "avg_latency": 1.3506526947021484,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.43877043493972,
+        "avg_latency": 1.3987517356872559,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.749954083182539,
+        "avg_latency": 1.3617074489593506,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.931048006791443,
+        "avg_latency": 1.3410389423370361,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.907646485073315,
+        "avg_latency": 1.3436744213104248,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.693951679864334,
+        "avg_latency": 1.3682286739349365,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.200121232391346,
+        "avg_latency": 1.428555965423584,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.698593390731963,
+        "avg_latency": 1.3676857948303223,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.933112270953627,
+        "avg_latency": 1.3408069610595703,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.715431864384293,
+        "avg_latency": 1.3657200336456299,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.393614114862919,
+        "avg_latency": 1.5394067764282227,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 12.033868264658489,
+        "avg_latency": 1.3295807838439941,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.890440958381157,
+        "avg_latency": 1.345618724822998,
+        "gpu_utilization": 89,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.119680842690885,
+        "avg_latency": 1.4388902187347412,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.284127918541712,
+        "avg_latency": 1.4179208278656006,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.060647524439814,
+        "avg_latency": 1.4465699195861816,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.053875667077522,
+        "avg_latency": 1.4474561214447021,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.278963695945857,
+        "avg_latency": 1.4185700416564941,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.843617830285195,
+        "avg_latency": 1.3509385585784912,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 10.591889073534144,
+        "avg_latency": 1.510589838027954,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 11.362262698064132,
+        "avg_latency": 1.408170223236084,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 16,
+        "throughput": 6.3671965890755615,
+        "avg_latency": 1.2564399242401123,
+        "gpu_utilization": 91,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": "final",
+        "throughput": 11.375876953416071,
+        "avg_latency": 0.08790531086921692,
+        "gpu_utilization": 91,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.150197034867443,
+        "avg_latency": 1.5208897590637207,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.046842046980158,
+        "avg_latency": 1.532938003540039,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.772228642484706,
+        "avg_latency": 1.452197790145874,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.84126500124823,
+        "avg_latency": 1.4449546337127686,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.432825726281719,
+        "avg_latency": 1.3857300281524658,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.251427292328394,
+        "avg_latency": 1.5092713832855225,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.05871585586872,
+        "avg_latency": 1.422605037689209,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.277927172650719,
+        "avg_latency": 1.5062592029571533,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.02306148319068,
+        "avg_latency": 1.4262220859527588,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.605698059812918,
+        "avg_latency": 1.5865840911865234,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.38798367129105,
+        "avg_latency": 1.4938769340515137,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.34278866317903,
+        "avg_latency": 1.3944289684295654,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.64734040943609,
+        "avg_latency": 1.465487003326416,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.683413465790908,
+        "avg_latency": 1.5768625736236572,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.941190808717979,
+        "avg_latency": 1.5454528331756592,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.716598464728756,
+        "avg_latency": 1.45808744430542,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.228977865375827,
+        "avg_latency": 1.6354596614837646,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.571965600117137,
+        "avg_latency": 1.473625898361206,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.175271250550882,
+        "avg_latency": 1.4109077453613281,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.273149627142985,
+        "avg_latency": 1.5068013668060303,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.721303363912872,
+        "avg_latency": 1.457587480545044,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.899789524770707,
+        "avg_latency": 1.550412893295288,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.665684496420674,
+        "avg_latency": 1.463519811630249,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.810985983463603,
+        "avg_latency": 1.5611600875854492,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.229079092268346,
+        "avg_latency": 1.5118210315704346,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.988077010555841,
+        "avg_latency": 1.5398738384246826,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.278067834481746,
+        "avg_latency": 1.6289207935333252,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.06010376033585,
+        "avg_latency": 1.4224646091461182,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.12095672142826,
+        "avg_latency": 1.416334629058838,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.191338429754582,
+        "avg_latency": 1.4093103408813477,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.33532363079219,
+        "avg_latency": 1.4997761249542236,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.291556956364333,
+        "avg_latency": 1.3994276523590088,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.066210888124862,
+        "avg_latency": 1.530665636062622,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.2869201042999,
+        "avg_latency": 1.3998818397521973,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.23366002812501,
+        "avg_latency": 1.5112977027893066,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.290142458373692,
+        "avg_latency": 1.3995661735534668,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.466103364860917,
+        "avg_latency": 1.6043505668640137,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.452873691514991,
+        "avg_latency": 1.4866712093353271,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.531311472633261,
+        "avg_latency": 1.478053331375122,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.383896690366026,
+        "avg_latency": 1.3904438018798828,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.733809343094087,
+        "avg_latency": 1.4562602043151855,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.164660517722357,
+        "avg_latency": 1.4119646549224854,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 14.348141624434682,
+        "avg_latency": 1.3939087390899658,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.01042278327801,
+        "avg_latency": 1.537229061126709,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.125004889445337,
+        "avg_latency": 1.5238089561462402,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.857022432559935,
+        "avg_latency": 1.555570125579834,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.44967280125893,
+        "avg_latency": 1.4870250225067139,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.375847629714235,
+        "avg_latency": 1.495232343673706,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 12.617163182032103,
+        "avg_latency": 1.5851423740386963,
+        "gpu_utilization": 87,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 20,
+        "throughput": 13.43435165213893,
+        "avg_latency": 1.4887208938598633,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": "final",
+        "throughput": 13.449986567823592,
+        "avg_latency": 0.07434951663017272,
+        "gpu_utilization": 88,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.410431445803551,
+        "avg_latency": 1.5573866367340088,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.349418232486821,
+        "avg_latency": 1.5635771751403809,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.393327974381258,
+        "avg_latency": 1.464010238647461,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.269501792318028,
+        "avg_latency": 1.4751527309417725,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.621103348231813,
+        "avg_latency": 1.5363831520080566,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.325992769829853,
+        "avg_latency": 1.470048427581787,
+        "gpu_utilization": 85,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.897348122994636,
+        "avg_latency": 1.509685754776001,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 14.895598972583585,
+        "avg_latency": 1.6112141609191895,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.578878295584756,
+        "avg_latency": 1.5405473709106445,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.74918344996591,
+        "avg_latency": 1.432905673980713,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.746438396149648,
+        "avg_latency": 1.5241541862487793,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 14.811604937726642,
+        "avg_latency": 1.6203510761260986,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.870855262255482,
+        "avg_latency": 1.5122058391571045,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 13.92763952364771,
+        "avg_latency": 1.7231922149658203,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.915860253646171,
+        "avg_latency": 1.507929801940918,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.986329642379125,
+        "avg_latency": 1.5012826919555664,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.923425794061133,
+        "avg_latency": 1.5072133541107178,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.942733473180072,
+        "avg_latency": 1.5053880214691162,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.466611435698892,
+        "avg_latency": 1.551729679107666,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.026056801292205,
+        "avg_latency": 1.5972254276275635,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.519526504975536,
+        "avg_latency": 1.5464389324188232,
+        "gpu_utilization": 86,
+        "memory_used": 71901
+    },
+    {
+        "batch_size": 24,
+        "throughput": 13.678574354939636,
+        "avg_latency": 1.7545688152313232,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.380219539175368,
+        "avg_latency": 1.465181827545166,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.436852613971617,
+        "avg_latency": 1.4601335525512695,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 14.786145661827273,
+        "avg_latency": 1.6231410503387451,
+        "gpu_utilization": 84,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.701209496347085,
+        "avg_latency": 1.5285446643829346,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.54474033858904,
+        "avg_latency": 1.4506120681762695,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.512758155450747,
+        "avg_latency": 1.5471136569976807,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.473353838775576,
+        "avg_latency": 1.551053524017334,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.71126221844454,
+        "avg_latency": 1.4361572265625,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.282296598864807,
+        "avg_latency": 1.4739935398101807,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.521443283518112,
+        "avg_latency": 1.546247959136963,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.2030814141965,
+        "avg_latency": 1.4811997413635254,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.301299559364356,
+        "avg_latency": 1.4722752571105957,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.39856226492797,
+        "avg_latency": 1.4635429382324219,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 16.700876294458034,
+        "avg_latency": 1.4370503425598145,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 14.801569156104389,
+        "avg_latency": 1.6214497089385986,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.259801668487798,
+        "avg_latency": 1.5727596282958984,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.340711751581873,
+        "avg_latency": 1.5644645690917969,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 15.631832549515616,
+        "avg_latency": 1.5353286266326904,
+        "gpu_utilization": 86,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 14.619480567953888,
+        "avg_latency": 1.6416451930999756,
+        "gpu_utilization": 87,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 24,
+        "throughput": 11.510257440672975,
+        "avg_latency": 1.3900644779205322,
+        "gpu_utilization": 88,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": "final",
+        "throughput": 15.556551809886782,
+        "avg_latency": 0.06428159737586975,
+        "gpu_utilization": 88,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.462975428723787,
+        "avg_latency": 1.7007861137390137,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.846829506209588,
+        "avg_latency": 1.6620337963104248,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.80988935897113,
+        "avg_latency": 1.572160243988037,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.529096546481533,
+        "avg_latency": 1.597344160079956,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.32493388480592,
+        "avg_latency": 1.6161677837371826,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.142833453953504,
+        "avg_latency": 1.6333355903625488,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.149860813944485,
+        "avg_latency": 1.7337610721588135,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.142588227600733,
+        "avg_latency": 1.6333589553833008,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 18.247069589955455,
+        "avg_latency": 1.5344929695129395,
+        "gpu_utilization": 84,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 15.934041172167216,
+        "avg_latency": 1.7572441101074219,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.671544605343644,
+        "avg_latency": 1.6795084476470947,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 15.279356656541621,
+        "avg_latency": 1.8325378894805908,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.209294678432748,
+        "avg_latency": 1.6270277500152588,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.102137058818048,
+        "avg_latency": 1.6372222900390625,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.739173358729563,
+        "avg_latency": 1.5784275531768799,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 15.0220080924576,
+        "avg_latency": 1.8639318943023682,
+        "gpu_utilization": 20,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.656624418726196,
+        "avg_latency": 1.6810128688812256,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.399495784730746,
+        "avg_latency": 1.7073695659637451,
+        "gpu_utilization": 85,
+        "memory_used": 72135
+    },
+    {
+        "batch_size": 28,
+        "throughput": 14.938064921025374,
+        "avg_latency": 1.874406099319458,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.781155267386893,
+        "avg_latency": 1.5747008323669434,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 18.065458698209707,
+        "avg_latency": 1.5499191284179688,
+        "gpu_utilization": 86,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.162985984109692,
+        "avg_latency": 1.6314177513122559,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 18.183597797416034,
+        "avg_latency": 1.5398492813110352,
+        "gpu_utilization": 86,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.871782340015788,
+        "avg_latency": 1.6595757007598877,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.00722412872026,
+        "avg_latency": 1.6463592052459717,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 18.27348838656724,
+        "avg_latency": 1.5322744846343994,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.483608741647163,
+        "avg_latency": 1.6015000343322754,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.943951746882934,
+        "avg_latency": 1.6525070667266846,
+        "gpu_utilization": 86,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 18.17058303118785,
+        "avg_latency": 1.540952205657959,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.49636405269684,
+        "avg_latency": 1.600332498550415,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 17.61780951156546,
+        "avg_latency": 1.5893008708953857,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.4476221007236,
+        "avg_latency": 1.702373743057251,
+        "gpu_utilization": 86,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.304986327417804,
+        "avg_latency": 1.7172660827636719,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.458614836457244,
+        "avg_latency": 1.7012367248535156,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 16.25981250623897,
+        "avg_latency": 1.7220370769500732,
+        "gpu_utilization": 86,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 28,
+        "throughput": 13.42353611570416,
+        "avg_latency": 1.4899203777313232,
+        "gpu_utilization": 88,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": "final",
+        "throughput": 16.839590043596562,
+        "avg_latency": 0.05938386845588684,
+        "gpu_utilization": 88,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.06919263590526,
+        "avg_latency": 1.770970106124878,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.413911542692958,
+        "avg_latency": 1.6483025550842285,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.818071102926368,
+        "avg_latency": 1.6146879196166992,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.955314300305165,
+        "avg_latency": 1.688180923461914,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.10664570053335,
+        "avg_latency": 1.6748099327087402,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.3212358621262,
+        "avg_latency": 1.7466070652008057,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 17.168088304460774,
+        "avg_latency": 1.8639233112335205,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 20.336546295366137,
+        "avg_latency": 1.5735218524932861,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 17.327583366684312,
+        "avg_latency": 1.846766471862793,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.766712752296453,
+        "avg_latency": 1.7051467895507812,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 17.730917737823162,
+        "avg_latency": 1.8047571182250977,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.829058518511555,
+        "avg_latency": 1.6995007991790771,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.320729685863686,
+        "avg_latency": 1.656252145767212,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.77614558180247,
+        "avg_latency": 1.7042901515960693,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.099597478743537,
+        "avg_latency": 1.7679951190948486,
+        "gpu_utilization": 85,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.69450842653005,
+        "avg_latency": 1.7117326259613037,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 16.800219700825355,
+        "avg_latency": 1.9047369956970215,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.97941409696417,
+        "avg_latency": 1.6016485691070557,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.173468110820007,
+        "avg_latency": 1.6689729690551758,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 20.177706939628067,
+        "avg_latency": 1.5859086513519287,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.88436668202167,
+        "avg_latency": 1.6945233345031738,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.93619556615767,
+        "avg_latency": 1.6898853778839111,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 20.257472578672605,
+        "avg_latency": 1.5796639919281006,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.75966466846253,
+        "avg_latency": 1.7057874202728271,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.790339756136184,
+        "avg_latency": 1.616950511932373,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 19.540188947013192,
+        "avg_latency": 1.637650489807129,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 20.269850616434685,
+        "avg_latency": 1.5786993503570557,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.011397481045574,
+        "avg_latency": 1.7766528129577637,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 17.8254410616291,
+        "avg_latency": 1.795186996459961,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 18.921697077420966,
+        "avg_latency": 1.6911802291870117,
+        "gpu_utilization": 84,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 15.931449215479763,
+        "avg_latency": 2.008605718612671,
+        "gpu_utilization": 20,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 32,
+        "throughput": 6.373472230716953,
+        "avg_latency": 1.2552027702331543,
+        "gpu_utilization": 92,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": "final",
+        "throughput": 18.42577583949893,
+        "avg_latency": 0.05427179884910584,
+        "gpu_utilization": 92,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.808478916316606,
+        "avg_latency": 1.8174035549163818,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.3192999636995,
+        "avg_latency": 1.6886107921600342,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.255750717722343,
+        "avg_latency": 1.6936593055725098,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.995273819518584,
+        "avg_latency": 1.7146716117858887,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.973419259632955,
+        "avg_latency": 1.7164583206176758,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.497956519908854,
+        "avg_latency": 1.8463473320007324,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 22.227343285726462,
+        "avg_latency": 1.619626760482788,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.01039210813171,
+        "avg_latency": 1.8937010765075684,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.3499670009519,
+        "avg_latency": 1.7690446376800537,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 18.935985697459532,
+        "avg_latency": 1.9011421203613281,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.862190531509043,
+        "avg_latency": 1.7256097793579102,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.007834375922602,
+        "avg_latency": 1.713646411895752,
+        "gpu_utilization": 83,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.49733410347971,
+        "avg_latency": 1.7563259601593018,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.46738343417174,
+        "avg_latency": 1.8492469787597656,
+        "gpu_utilization": 82,
+        "memory_used": 72379
+    },
+    {
+        "batch_size": 36,
+        "throughput": 18.330301731725232,
+        "avg_latency": 1.963961124420166,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.82475264211208,
+        "avg_latency": 1.649503231048584,
+        "gpu_utilization": 84,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.112209417758898,
+        "avg_latency": 1.705174446105957,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.888660975037684,
+        "avg_latency": 1.6446871757507324,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.045927155175274,
+        "avg_latency": 1.7958760261535645,
+        "gpu_utilization": 84,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.682809892103304,
+        "avg_latency": 1.8290071487426758,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.409690123350885,
+        "avg_latency": 1.6814815998077393,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 20.725627698711207,
+        "avg_latency": 1.7369799613952637,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 21.512398466271346,
+        "avg_latency": 1.6734535694122314,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 22.313615810509386,
+        "avg_latency": 1.6133646965026855,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.64671985077361,
+        "avg_latency": 1.832366943359375,
+        "gpu_utilization": 84,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.742370952482315,
+        "avg_latency": 1.8234891891479492,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 19.02502958743157,
+        "avg_latency": 1.8922441005706787,
+        "gpu_utilization": 84,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 36,
+        "throughput": 17.29061130083162,
+        "avg_latency": 1.6193759441375732,
+        "gpu_utilization": 85,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": "final",
+        "throughput": 20.338015724258607,
+        "avg_latency": 0.049169005155563356,
+        "gpu_utilization": 85,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.43464771587301,
+        "avg_latency": 1.8661375045776367,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 23.15207184018721,
+        "avg_latency": 1.7277071475982666,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.845272082230483,
+        "avg_latency": 1.7509093284606934,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.69093096673726,
+        "avg_latency": 1.7628188133239746,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.584442625000836,
+        "avg_latency": 1.8531866073608398,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 23.018206883229208,
+        "avg_latency": 1.7377548217773438,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.4400959776025,
+        "avg_latency": 1.8656632900238037,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.723528828332597,
+        "avg_latency": 1.8413214683532715,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 20.60951895198807,
+        "avg_latency": 1.9408507347106934,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 20.692775382611607,
+        "avg_latency": 1.9330418109893799,
+        "gpu_utilization": 83,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.043561784836744,
+        "avg_latency": 1.8145887851715088,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.602744081018326,
+        "avg_latency": 1.851616621017456,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.386563694987704,
+        "avg_latency": 1.870333194732666,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 20.95329587091627,
+        "avg_latency": 1.9090075492858887,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 24.00078852383103,
+        "avg_latency": 1.666611909866333,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 23.003222082370137,
+        "avg_latency": 1.738886833190918,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.510866515647983,
+        "avg_latency": 1.7769196033477783,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.798289980404892,
+        "avg_latency": 1.7545175552368164,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.847017377100304,
+        "avg_latency": 1.7507755756378174,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 23.210796056276845,
+        "avg_latency": 1.7233359813690186,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 23.430268998425806,
+        "avg_latency": 1.707193374633789,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.44307902719461,
+        "avg_latency": 1.7822866439819336,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 21.206117981702075,
+        "avg_latency": 1.8862481117248535,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 22.206883370161226,
+        "avg_latency": 1.8012433052062988,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 40,
+        "throughput": 20.90549261476285,
+        "avg_latency": 1.9133727550506592,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": "final",
+        "throughput": 22.10985063464088,
+        "avg_latency": 0.04522870898246765,
+        "gpu_utilization": 82,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.96469393262022,
+        "avg_latency": 1.8360342979431152,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.959678034197964,
+        "avg_latency": 1.6949362754821777,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.05846286556627,
+        "avg_latency": 1.9081931114196777,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.29679470502234,
+        "avg_latency": 1.7393507957458496,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.439407244534998,
+        "avg_latency": 1.877180576324463,
+        "gpu_utilization": 78,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.715411435433406,
+        "avg_latency": 1.711036205291748,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.362102933102637,
+        "avg_latency": 1.883392095565796,
+        "gpu_utilization": 81,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 22.94153289240192,
+        "avg_latency": 1.9179189205169678,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 24.60831589210547,
+        "avg_latency": 1.7880134582519531,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 24.534406513956807,
+        "avg_latency": 1.7933998107910156,
+        "gpu_utilization": 79,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 24.18277548965536,
+        "avg_latency": 1.819476842880249,
+        "gpu_utilization": 80,
+        "memory_used": 72641
+    },
+    {
+        "batch_size": 44,
+        "throughput": 21.79739351662655,
+        "avg_latency": 2.018589973449707,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 26.30603393040844,
+        "avg_latency": 1.6726200580596924,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.525314406408917,
+        "avg_latency": 1.7237789630889893,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.139219849248626,
+        "avg_latency": 1.7502532005310059,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.479902012152802,
+        "avg_latency": 1.726851224899292,
+        "gpu_utilization": 81,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 26.596007371680134,
+        "avg_latency": 1.654383659362793,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 22.75908303831518,
+        "avg_latency": 1.9332940578460693,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 26.10322030386203,
+        "avg_latency": 1.6856157779693604,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 25.11137227208002,
+        "avg_latency": 1.7521941661834717,
+        "gpu_utilization": 81,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.42917674253742,
+        "avg_latency": 1.878000259399414,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 23.0610243877874,
+        "avg_latency": 1.9079811573028564,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 44,
+        "throughput": 18.821063513260157,
+        "avg_latency": 1.7002227306365967,
+        "gpu_utilization": 84,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": "final",
+        "throughput": 24.169232338995556,
+        "avg_latency": 0.04137491774559021,
+        "gpu_utilization": 84,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 25.495361103016908,
+        "avg_latency": 1.8826954364776611,
+        "gpu_utilization": 78,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.95371431911705,
+        "avg_latency": 1.7171242237091064,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 26.8518446101075,
+        "avg_latency": 1.7875866889953613,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 25.15499163172859,
+        "avg_latency": 1.9081699848175049,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.220679034462805,
+        "avg_latency": 1.7633652687072754,
+        "gpu_utilization": 80,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 24.96116119903878,
+        "avg_latency": 1.922987461090088,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 23.956374457334253,
+        "avg_latency": 2.0036420822143555,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 26.802958772962064,
+        "avg_latency": 1.7908470630645752,
+        "gpu_utilization": 78,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 26.87710255844764,
+        "avg_latency": 1.7859067916870117,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 22.88669535556941,
+        "avg_latency": 2.0972883701324463,
+        "gpu_utilization": 79,
+        "memory_used": 72953
+    },
+    {
+        "batch_size": 48,
+        "throughput": 23.316396569595405,
+        "avg_latency": 2.0586371421813965,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 28.130780090789077,
+        "avg_latency": 1.7063159942626953,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.422268817425454,
+        "avg_latency": 1.7504022121429443,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.096540580088167,
+        "avg_latency": 1.7714438438415527,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.11913750711733,
+        "avg_latency": 1.769967794418335,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 26.858615073630645,
+        "avg_latency": 1.7871360778808594,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 27.878966706275513,
+        "avg_latency": 1.7217280864715576,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 28.363424271206995,
+        "avg_latency": 1.6923203468322754,
+        "gpu_utilization": 80,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 24.62525652507567,
+        "avg_latency": 1.9492182731628418,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 25.708383363139458,
+        "avg_latency": 1.8670952320098877,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 48,
+        "throughput": 20.856978687294053,
+        "avg_latency": 1.917823314666748,
+        "gpu_utilization": 82,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": "final",
+        "throughput": 25.866293204363338,
+        "avg_latency": 0.03866035199165344,
+        "gpu_utilization": 82,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 26.492472248678467,
+        "avg_latency": 1.9628217220306396,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 26.5092130365196,
+        "avg_latency": 1.9615821838378906,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 27.038160455353847,
+        "avg_latency": 1.9232077598571777,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 26.569424352590207,
+        "avg_latency": 1.957136869430542,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 28.374696613309464,
+        "avg_latency": 1.8326187133789062,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 26.033106945144034,
+        "avg_latency": 1.9974565505981445,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 24.954203714507383,
+        "avg_latency": 2.08381724357605,
+        "gpu_utilization": 80,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 28.1245178715231,
+        "avg_latency": 1.8489205837249756,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 27.26525605703777,
+        "avg_latency": 1.907189130783081,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 25.13788227700748,
+        "avg_latency": 2.0685911178588867,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 26.210496778184115,
+        "avg_latency": 1.9839379787445068,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 28.407451870007375,
+        "avg_latency": 1.830505609512329,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 28.145688106828377,
+        "avg_latency": 1.8475298881530762,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 25.89075621174399,
+        "avg_latency": 2.0084388256073,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 27.4497751511253,
+        "avg_latency": 1.8943688869476318,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 29.053027443109144,
+        "avg_latency": 1.7898306846618652,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 27.958721802371567,
+        "avg_latency": 1.8598847389221191,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 25.64873744206938,
+        "avg_latency": 2.027390241622925,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 25.228884567317724,
+        "avg_latency": 2.061129570007324,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 52,
+        "throughput": 9.185195621106388,
+        "avg_latency": 1.3064501285552979,
+        "gpu_utilization": 90,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": "final",
+        "throughput": 26.20335855978687,
+        "avg_latency": 0.03816304683685303,
+        "gpu_utilization": 90,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 27.77214454694995,
+        "avg_latency": 2.016408920288086,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 30.58499591646249,
+        "avg_latency": 1.830963134765625,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 29.29529385279204,
+        "avg_latency": 1.9115698337554932,
+        "gpu_utilization": 76,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 27.63701211408454,
+        "avg_latency": 2.026268243789673,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 28.470741192418,
+        "avg_latency": 1.9669315814971924,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 26.066799656187868,
+        "avg_latency": 2.1483266353607178,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 26.606320604765557,
+        "avg_latency": 2.1047630310058594,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 29.133541878043516,
+        "avg_latency": 1.9221830368041992,
+        "gpu_utilization": 76,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 27.334409108947302,
+        "avg_latency": 2.0486998558044434,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 26.45748404030874,
+        "avg_latency": 2.116603374481201,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 29.98092043373094,
+        "avg_latency": 1.8678545951843262,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 29.8236622708446,
+        "avg_latency": 1.8777036666870117,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 30.114384158528566,
+        "avg_latency": 1.8595764636993408,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 29.162602403272036,
+        "avg_latency": 1.9202675819396973,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 30.700865497124944,
+        "avg_latency": 1.8240528106689453,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 28.735064908690592,
+        "avg_latency": 1.948838472366333,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 27.052891697108908,
+        "avg_latency": 2.070019006729126,
+        "gpu_utilization": 78,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 56,
+        "throughput": 25.083071810712482,
+        "avg_latency": 1.9136412143707275,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": "final",
+        "throughput": 28.267339372495048,
+        "avg_latency": 0.03537651658058166,
+        "gpu_utilization": 79,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 26.279737998599018,
+        "avg_latency": 2.283127784729004,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 30.375498391110874,
+        "avg_latency": 1.975276231765747,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 30.37945124665146,
+        "avg_latency": 1.9750192165374756,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 28.670366293092577,
+        "avg_latency": 2.0927531719207764,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 27.62065076798041,
+        "avg_latency": 2.172287702560425,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 27.367602343760197,
+        "avg_latency": 2.192373275756836,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 30.16382140390162,
+        "avg_latency": 1.989137887954712,
+        "gpu_utilization": 76,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 27.7835973176265,
+        "avg_latency": 2.1595475673675537,
+        "gpu_utilization": 77,
+        "memory_used": 73273
+    },
+    {
+        "batch_size": 60,
+        "throughput": 26.311899290987323,
+        "avg_latency": 2.28033709526062,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 28.96002783938223,
+        "avg_latency": 2.0718212127685547,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 29.32005676708404,
+        "avg_latency": 2.0463807582855225,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 30.580903923207686,
+        "avg_latency": 1.9620087146759033,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 29.881508529220106,
+        "avg_latency": 2.0079307556152344,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 31.370270633115226,
+        "avg_latency": 1.9126389026641846,
+        "gpu_utilization": 75,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 29.155264163068573,
+        "avg_latency": 2.0579473972320557,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 28.11341113822129,
+        "avg_latency": 2.1342127323150635,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 60,
+        "throughput": 20.955949729351094,
+        "avg_latency": 1.9087657928466797,
+        "gpu_utilization": 82,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": "final",
+        "throughput": 28.38779745094702,
+        "avg_latency": 0.03522640323638916,
+        "gpu_utilization": 82,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 30.018785654481327,
+        "avg_latency": 2.131998300552368,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 31.855441915108866,
+        "avg_latency": 2.009075880050659,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 27.296947904697017,
+        "avg_latency": 2.3445844650268555,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 32.132404409745604,
+        "avg_latency": 1.9917588233947754,
+        "gpu_utilization": 75,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 28.37127341972323,
+        "avg_latency": 2.255802869796753,
+        "gpu_utilization": 75,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 28.836982778087044,
+        "avg_latency": 2.219372272491455,
+        "gpu_utilization": 75,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 30.53684231601594,
+        "avg_latency": 2.0958290100097656,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 29.272492104613747,
+        "avg_latency": 2.1863529682159424,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 28.646752688773333,
+        "avg_latency": 2.234110116958618,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 32.26991201719937,
+        "avg_latency": 1.983271598815918,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 30.716570304821694,
+        "avg_latency": 2.0835659503936768,
+        "gpu_utilization": 77,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 31.56604351564,
+        "avg_latency": 2.0274951457977295,
+        "gpu_utilization": 75,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 29.600265705586388,
+        "avg_latency": 2.162142753601074,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 30.72362620923963,
+        "avg_latency": 2.08308744430542,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 29.34629764016527,
+        "avg_latency": 2.180854320526123,
+        "gpu_utilization": 76,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": 64,
+        "throughput": 20.94673216082918,
+        "avg_latency": 1.9096057415008545,
+        "gpu_utilization": 82,
+        "memory_used": 73619
+    },
+    {
+        "batch_size": "final",
+        "throughput": 29.498073558137186,
+        "avg_latency": 0.033900518894195555,
+        "gpu_utilization": 82,
+        "memory_used": 73619
+    }
+]

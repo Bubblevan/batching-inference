@@ -1,0 +1,26 @@
+[
+    {
+        "length_group": 32,
+        "batch_size": 64,
+        "throughput": 37.04994482408975,
+        "avg_latency": 1.7175799933346836
+    },
+    {
+        "length_group": 128,
+        "batch_size": 16,
+        "throughput": 19.5645258371919,
+        "avg_latency": 1.5504180192947388
+    },
+    {
+        "length_group": 512,
+        "batch_size": 32,
+        "throughput": 12.676681538854606,
+        "avg_latency": 1.9918431639671326
+    },
+    {
+        "length_group": "others",
+        "batch_size": 32,
+        "throughput": 5.16953906508001,
+        "avg_latency": 1.6442445516586304
+    }
+]
